@@ -55,17 +55,26 @@ a {
   margin-bottom: 24px;
 }
 
-.logs {
+.mb-13 {
   margin-bottom: 13px;
-  height: 200px;
 }
 
+.logs {
+  border: 1px solid red;
+}
 .progress {
   height: 300px;
 }
 
 .percent {
   height:  300px;
+}
+
+.infinite-list {
+  height: 150x;
+}
+.infinite-list-item {
+  font-size: 10px;
 }
 
 .mx {
